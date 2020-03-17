@@ -44,3 +44,10 @@ Items in this checklist may not may not apply to your PR, but please consider ea
 - [ ] Identify (in the description above) and document (add Asana tasks on [this board](https://app.asana.com/0/1100423001970639/list)) any technical debt that you're aware of, but are not addressing as part of this PR.
 - [ ] Review – approve if valid – any Percy visual diff changes (see status check below).
 </details>
+
+
+**For all Updates:**
+
+- [ ] Verified that all status checks have passed
+- [ ] Assigned an appropriate `label` (either `Platform` or a product name)
+- [ ] Requested at least one review
