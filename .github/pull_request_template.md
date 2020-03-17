@@ -2,7 +2,7 @@
 
 :tickets: [Asana ticket]()
 
-:mag: [Netlify preview]()
+:mag: [Netlify preview](https://deploy-preview-<YOUR-PR-ID-HERE>--hashicorp-learn.netlify.com/)
 
 Add a brief description of changes here.
 
